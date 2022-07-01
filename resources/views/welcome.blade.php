@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        This is production Environment - Mohammad Jibreel
+        This is Staging Environment - Mohammad Jibreel
         </div>
     </body>
 </html>
